@@ -5,6 +5,8 @@ A curated index of free, browser-based interactive STEM visualizers from
 explore math, physics, and chemistry ideas by dragging controls, inspecting live
 labels, and exporting visuals for slides or handouts.
 
+![Electrolysis of Water in 3D](assets/electrolysis-of-water-3d.gif)
+
 ## Contents
 
 - [Math](#math)
