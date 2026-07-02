@@ -1,0 +1,213 @@
+{
+  "source": "https://figviz.com/concepts",
+  "categories": [
+    {
+      "subject": "Math",
+      "description": "Interactive graphing and trigonometry tools for algebra, precalculus, and coordinate-plane reasoning.",
+      "concepts": [
+        {
+          "slug": "unit-circle",
+          "title": "Unit Circle",
+          "url": "https://figviz.com/concepts/unit-circle",
+          "interactiveUrl": "https://figviz.com/concepts/unit-circle.html",
+          "level": "High school, College",
+          "summary": "Drag the angle to inspect sine, cosine, tangent, radians, degrees, exact coordinates, and common angles.",
+          "teaches": "How the unit circle defines sine, cosine, and tangent, the common angles in degrees and radians, and their exact coordinates.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/unit-circle/unit-circle-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/unit-circle/unit-circle-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/unit-circle/unit-circle-watermarked.mp4"
+          },
+          "related": [
+            "Coordinate Plane Generator",
+            "Graph Paper Generator",
+            "Number Line Generator"
+          ]
+        },
+        {
+          "slug": "slope-intercept-form",
+          "title": "Slope-Intercept Form",
+          "url": "https://figviz.com/concepts/slope-intercept-form",
+          "interactiveUrl": "https://figviz.com/concepts/slope-intercept-form.html",
+          "level": "Middle school, High school",
+          "summary": "Adjust m and b in y = mx + b to reshape a line and read slope, intercepts, and direction.",
+          "teaches": "How the slope m and y-intercept b in y = mx + b shape a line, and how to read the slope, intercepts, and direction.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/slope-intercept-form/slope-intercept-form-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/slope-intercept-form/slope-intercept-form-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/slope-intercept-form/slope-intercept-form-watermarked.mp4"
+          },
+          "related": [
+            "Quadratic Function",
+            "Coordinate Plane Generator",
+            "Graph Paper Generator"
+          ]
+        },
+        {
+          "slug": "quadratic-function",
+          "title": "Quadratic Function",
+          "url": "https://figviz.com/concepts/quadratic-function",
+          "interactiveUrl": "https://figviz.com/concepts/quadratic-function.html",
+          "level": "High school",
+          "summary": "Change a, b, and c in y = ax^2 + bx + c to see how a parabola's vertex, roots, axis of symmetry, and discriminant update.",
+          "teaches": "How the coefficients of y = ax^2 + bx + c shape a parabola, and how to find the vertex, axis of symmetry, roots, and discriminant.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/quadratic-function/quadratic-function-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/quadratic-function/quadratic-function-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/quadratic-function/quadratic-function-watermarked.mp4"
+          },
+          "related": [
+            "Coordinate Plane Generator",
+            "Graph Paper Generator",
+            "Unit Circle"
+          ]
+        },
+        {
+          "slug": "exponential-function",
+          "title": "Exponential Function",
+          "url": "https://figviz.com/concepts/exponential-function",
+          "interactiveUrl": "https://figviz.com/concepts/exponential-function.html",
+          "level": "High school",
+          "summary": "Compare growth and decay by dragging the initial value and base in y = a*b^x.",
+          "teaches": "How the initial value a and base b in y = a*b^x produce growth or decay, and how to read the y-intercept and horizontal asymptote.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/exponential-function/exponential-function-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/exponential-function/exponential-function-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/exponential-function/exponential-function-watermarked.mp4"
+          },
+          "related": [
+            "Quadratic Function",
+            "Slope-Intercept Form",
+            "Coordinate Plane Generator"
+          ]
+        },
+        {
+          "slug": "systems-of-equations",
+          "title": "Systems of Equations",
+          "url": "https://figviz.com/concepts/systems-of-equations",
+          "interactiveUrl": "https://figviz.com/concepts/systems-of-equations.html",
+          "level": "Middle school, High school",
+          "summary": "Move two lines to identify one solution, no solution, or infinitely many solutions.",
+          "teaches": "How two linear equations graph as lines, how the intersection gives the solution, and how to tell apart one solution, no solution, and infinitely many.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/systems-of-equations/systems-of-equations-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/systems-of-equations/systems-of-equations-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/systems-of-equations/systems-of-equations-watermarked.mp4"
+          },
+          "related": [
+            "Slope-Intercept Form",
+            "Quadratic Function",
+            "Coordinate Plane Generator"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "description": "Motion and oscillation visualizers for connecting equations to changing geometry over time.",
+      "concepts": [
+        {
+          "slug": "projectile-motion",
+          "title": "Projectile Motion",
+          "url": "https://figviz.com/concepts/projectile-motion",
+          "interactiveUrl": "https://figviz.com/concepts/projectile-motion.html",
+          "level": "High school, College",
+          "summary": "Change launch angle and speed to study trajectory, range, maximum height, time of flight, and velocity components.",
+          "teaches": "How launch angle and speed determine the trajectory, range, maximum height, and time of flight of a projectile.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/projectile-motion/projectile-motion-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/projectile-motion/projectile-motion-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/projectile-motion/projectile-motion-watermarked.mp4"
+          },
+          "related": [
+            "Quadratic Function",
+            "Simple Harmonic Motion",
+            "Coordinate Plane Generator"
+          ]
+        },
+        {
+          "slug": "simple-harmonic-motion",
+          "title": "Simple Harmonic Motion",
+          "url": "https://figviz.com/concepts/simple-harmonic-motion",
+          "interactiveUrl": "https://figviz.com/concepts/simple-harmonic-motion.html",
+          "level": "High school, College",
+          "summary": "Adjust amplitude and period to connect sine-wave displacement, frequency, and angular frequency.",
+          "teaches": "How amplitude, period, frequency, and angular frequency shape the sine-wave displacement of simple harmonic motion.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/simple-harmonic-motion/simple-harmonic-motion-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/simple-harmonic-motion/simple-harmonic-motion-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/simple-harmonic-motion/simple-harmonic-motion-watermarked.mp4"
+          },
+          "related": [
+            "Projectile Motion",
+            "Unit Circle",
+            "Coordinate Plane Generator"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "description": "Molecular and reaction visualizers that show bonds, atom conservation, and balanced equations.",
+      "concepts": [
+        {
+          "slug": "electrolysis-of-water",
+          "title": "Electrolysis of Water",
+          "url": "https://figviz.com/concepts/electrolysis-of-water",
+          "interactiveUrl": "https://figviz.com/concepts/electrolysis-of-water.html",
+          "level": "Middle school, High school",
+          "summary": "Step through 2 H2O -> 2 H2 + O2 and see water split into hydrogen and oxygen gas in 3D.",
+          "teaches": "How an electric current decomposes water into hydrogen and oxygen, the balanced equation 2 H2O -> 2 H2 + O2, the 2:1 volume ratio, and conservation of atoms.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/electrolysis-of-water/electrolysis-of-water-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/electrolysis-of-water/electrolysis-of-water-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/electrolysis-of-water/electrolysis-of-water-watermarked.mp4"
+          },
+          "related": [
+            "Chemistry Structure Generator",
+            "Particulate Diagram Generator",
+            "Lewis Dot Structure Generator"
+          ]
+        },
+        {
+          "slug": "combustion-reaction",
+          "title": "Combustion Reaction",
+          "url": "https://figviz.com/concepts/combustion-reaction",
+          "interactiveUrl": "https://figviz.com/concepts/combustion-reaction.html",
+          "level": "Middle school, High school",
+          "summary": "Watch methane burn as CH4 + 2O2 -> CO2 + 2H2O, with bonds breaking and reforming.",
+          "teaches": "How methane burns in oxygen (CH4 + 2O2 -> CO2 + 2H2O), how bonds break and re-form, and how atoms are conserved.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/combustion-reaction/combustion-reaction-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/combustion-reaction/combustion-reaction-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/combustion-reaction/combustion-reaction-watermarked.mp4"
+          },
+          "related": [
+            "Balancing Chemical Equations",
+            "Electrolysis of Water",
+            "Glucose Molecule (3D)"
+          ]
+        },
+        {
+          "slug": "balancing-chemical-equations",
+          "title": "Balancing Chemical Equations",
+          "url": "https://figviz.com/concepts/balancing-chemical-equations",
+          "interactiveUrl": "https://figviz.com/concepts/balancing-chemical-equations.html",
+          "level": "Middle school, High school",
+          "summary": "Adjust coefficients and watch atom counts balance on both sides of H2 + O2 -> H2O.",
+          "teaches": "How coefficients balance a chemical equation so each element has equal atoms on both sides, illustrated with H2 + O2 -> H2O.",
+          "publicExports": {
+            "png": "https://cdn.figviz.io/concepts/exports/balancing-chemical-equations/balancing-chemical-equations-poster-watermarked.png",
+            "gif": "https://cdn.figviz.io/concepts/exports/balancing-chemical-equations/balancing-chemical-equations-watermarked.gif",
+            "mp4": "https://cdn.figviz.io/concepts/exports/balancing-chemical-equations/balancing-chemical-equations-watermarked.mp4"
+          },
+          "related": [
+            "Combustion Reaction",
+            "Electrolysis of Water",
+            "Glucose Molecule (3D)"
+          ]
+        }
+      ]
+    }
+  ]
+}
