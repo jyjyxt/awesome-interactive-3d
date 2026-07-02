@@ -5,8 +5,6 @@ A curated index of free, browser-based interactive STEM visualizers from
 explore math, physics, and chemistry ideas by dragging controls, inspecting live
 labels, and exporting visuals for slides or handouts.
 
-![Electrolysis of Water in 3D](assets/electrolysis-of-water-3d.gif)
-
 ## Contents
 
 - [Math](#math)
@@ -55,6 +53,8 @@ geometry over time.
 
 Molecular and reaction visualizers that show bonds, atom conservation, and
 balanced equations.
+
+<img src="assets/electrolysis-of-water-3d.gif" alt="Electrolysis of Water in 3D" width="100%">
 
 - [Electrolysis of Water](https://figviz.com/concepts/electrolysis-of-water) -
   Step through `2 H2O -> 2 H2 + O2` and see water split into hydrogen and oxygen

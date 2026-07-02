@@ -6,7 +6,7 @@ and balanced equations.
 ## Electrolysis of Water
 
 - URL: <https://figviz.com/concepts/electrolysis-of-water>
-- Interactive: <https://figviz.com/concepts/electrolysis-of-water.html>
+- Interactive: <https://figviz.com/concepts/electrolysis-of-water>
 - Level: Middle school, High school
 - Teaches: how electric current decomposes water into hydrogen and oxygen,
   including `2 H2O -> 2 H2 + O2`, the 2:1 gas ratio, and conservation of atoms.
@@ -17,7 +17,7 @@ and balanced equations.
 ## Combustion Reaction
 
 - URL: <https://figviz.com/concepts/combustion-reaction>
-- Interactive: <https://figviz.com/concepts/combustion-reaction.html>
+- Interactive: <https://figviz.com/concepts/combustion-reaction>
 - Level: Middle school, High school
 - Teaches: how methane burns in oxygen as
   `CH4 + 2O2 -> CO2 + 2H2O`, with atoms conserved.
@@ -27,7 +27,7 @@ and balanced equations.
 ## Balancing Chemical Equations
 
 - URL: <https://figviz.com/concepts/balancing-chemical-equations>
-- Interactive: <https://figviz.com/concepts/balancing-chemical-equations.html>
+- Interactive: <https://figviz.com/concepts/balancing-chemical-equations>
 - Level: Middle school, High school
 - Teaches: how coefficients balance each element on both sides of a chemical
   equation.

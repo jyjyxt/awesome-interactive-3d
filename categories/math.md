@@ -6,7 +6,7 @@ of equations.
 ## Unit Circle
 
 - URL: <https://figviz.com/concepts/unit-circle>
-- Interactive: <https://figviz.com/concepts/unit-circle.html>
+- Interactive: <https://figviz.com/concepts/unit-circle>
 - Level: High school, College
 - Teaches: how the unit circle defines sine, cosine, and tangent; common angles
   in degrees and radians; exact coordinates.
@@ -17,7 +17,7 @@ of equations.
 ## Slope-Intercept Form
 
 - URL: <https://figviz.com/concepts/slope-intercept-form>
-- Interactive: <https://figviz.com/concepts/slope-intercept-form.html>
+- Interactive: <https://figviz.com/concepts/slope-intercept-form>
 - Level: Middle school, High school
 - Teaches: how slope `m` and y-intercept `b` in `y = mx + b` shape a line.
 - Interaction: drag `m` and `b` to update slope, intercepts, and line
@@ -27,7 +27,7 @@ of equations.
 ## Quadratic Function
 
 - URL: <https://figviz.com/concepts/quadratic-function>
-- Interactive: <https://figviz.com/concepts/quadratic-function.html>
+- Interactive: <https://figviz.com/concepts/quadratic-function>
 - Level: High school
 - Teaches: how coefficients in `y = ax^2 + bx + c` shape a parabola and how to
   read vertex, roots, axis of symmetry, and discriminant.
@@ -37,7 +37,7 @@ of equations.
 ## Exponential Function
 
 - URL: <https://figviz.com/concepts/exponential-function>
-- Interactive: <https://figviz.com/concepts/exponential-function.html>
+- Interactive: <https://figviz.com/concepts/exponential-function>
 - Level: High school
 - Teaches: how initial value `a` and base `b` in `y = a*b^x` produce growth or
   decay.
@@ -48,7 +48,7 @@ of equations.
 ## Systems of Equations
 
 - URL: <https://figviz.com/concepts/systems-of-equations>
-- Interactive: <https://figviz.com/concepts/systems-of-equations.html>
+- Interactive: <https://figviz.com/concepts/systems-of-equations>
 - Level: Middle school, High school
 - Teaches: how two linear equations graph as lines and how their intersection
   gives the solution.
