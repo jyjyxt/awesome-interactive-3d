@@ -40,6 +40,8 @@ foundational coordinate-plane reasoning.
 Motion and oscillation visualizers for connecting equations to changing
 geometry over time.
 
+<img src="assets/simple-harmonic-motion.gif" alt="Simple Harmonic Motion interactive visualization" width="100%">
+
 - [Projectile Motion](https://figviz.com/concepts/projectile-motion) - Change
   launch angle and speed to study trajectory, range, maximum height, time of
   flight, and velocity components.
